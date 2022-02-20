@@ -4,7 +4,7 @@
 
 :house_with_garden: Moro em Floriano, PI - Brasil.
 
-:books: No momento, lendo de tudo um pouco (Programação, Economia, Geopolítica e Revista sobre Startups) - Último livro lido "Elon Musk de Ashlee Vance"
+:books: No momento, lendo de tudo um pouco (Programação, Tecnologia, Economia, Geopolítica e Revista sobre Startups) - Último livro lido "Elon Musk de Ashlee Vance"
 
 :outbox_tray: Metas para 2022: Transição de Carreira e encontrar uma oportunidade na area de TI. 
 
